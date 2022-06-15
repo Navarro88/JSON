@@ -1,9 +1,3 @@
 {
-"1skill":"GitBash",
-"2skill":"SQL",
-"3skill":"Api",
-"4skill":"Sniffers",
-"5skill":"Mobile",
-"6skill":"Jmeter",
-"7skill":"TestDocumentation"
+ "skills": ["GitBash", "SQL", "API", "Sniffers", "Mobile", "Jmeter", "TestDocumentation"]
 }
