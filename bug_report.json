@@ -1,5 +1,5 @@
 {
-"ID":"1",
+"ID":1,
 "Title":"Payment page is not opened after clicking on the button 'Buy'",
 "STR":"1.Open page www.shop.com 2.Select any item 3.Click 'Buy'",
 "AR":"Page www.shop.com is opened",
